@@ -8,11 +8,8 @@ categories: github
 ``` bash
 $ git config http.postBuffer 524288000
 ```
-524288000算法：
-10241024500
-
+524288000算法：10241024500
 出现如下错误：curl 56 OpenSSL SSL_read:SSL_ERROR_sysCALL
-
 执行：
 ``` bash
 $ git config http.sslVerify “false”

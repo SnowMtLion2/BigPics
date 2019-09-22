@@ -15,7 +15,7 @@ npm install -g hexo-cli
 hexo init blog
 ```
 注意，这里的命令都是作用在刚刚创建的Blog文件夹中。
-
+<!--more-->
 为了检测我们的网站雏形，分别按顺序输入以下三条命令：
 ```bash
 hexo new test_my_site
